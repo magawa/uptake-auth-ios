@@ -1,0 +1,5 @@
+github "magawa/uptake-networking-ios" "master"
+github "magawa/uptake-toolbox-ios" "master"
+github "jemmons/Gauntlet" "v3.0"
+github "jemmons/Medea" "v0.5.1"
+github "jemmons/Perfidy" "v0.2.6"
